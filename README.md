@@ -1,2 +1,2 @@
-# RelxTeam.github.io
+# RelxTeam
 Relx Tech Team
